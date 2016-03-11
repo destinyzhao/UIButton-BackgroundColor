@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>UIbuttonBackgroundColor.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>FA4278141C9311BB00CE0E22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA42782D1C9311BB00CE0E22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA4278381C9311BB00CE0E22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
